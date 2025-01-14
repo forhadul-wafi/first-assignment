@@ -215,3 +215,20 @@ main section {
     font-size: 16px;
     color: rgba(14, 14, 14, 0.6);
 }
+.foot{
+    display: flex;
+    justify-content: center;
+    color: #0E0E0E;
+    font-size: 32px;
+    font-weight: bold;
+    padding-top: 50px;
+    padding-left: 650px;
+    padding-right: 650px;
+    padding-bottom: 138px;
+}
+
+.foot-icons{
+    display: flex;
+    justify-content: center;
+    padding: 24px;
+}
